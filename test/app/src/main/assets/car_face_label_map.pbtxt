@@ -1,0 +1,24 @@
+item {
+  id: 1
+  name: 'normal'
+}
+item {
+  id: 2
+  name: 'yawning'
+}
+item {
+  id: 3
+  name: 'tired'
+}
+item {
+  id: 4
+  name: 'phone'
+}
+item {
+  id: 5
+  name: 'headdown'
+}
+item {
+  id: 6
+  name: 'other'
+}
